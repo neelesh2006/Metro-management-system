@@ -1,0 +1,4 @@
+# Intercity Line
+0 1 2000.0 1200 i  # Delhi to Bangalore
+0 2 1400.0 840 i   # Delhi to Hyderabad
+1 2 600.0 360 i    # Bangalore to Hyderabad
